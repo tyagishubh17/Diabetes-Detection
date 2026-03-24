@@ -32,7 +32,7 @@ Diabetes is a chronic metabolic disorder affecting millions worldwide. Early det
 
 | Tool / Library    | Purpose                          |
 |-------------------|----------------------------------|
-| Python 3.13       | Core programming language        |
+| Python 3.x        | Core programming language        |
 | Pandas            | Data loading and manipulation    |
 | NumPy             | Numerical operations             |
 | Scikit-learn      | ML models, scaling, evaluation   |
