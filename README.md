@@ -12,7 +12,7 @@ Diabetes is a chronic metabolic disorder affecting millions worldwide. Early det
 
 ## ✨ Features
 
-- Automated dataset download (from a public GitHub profile) 
+- Automated dataset download (from a publicly available GitHub profile) 
 - Exploratory Data Analysis (EDA) with statistical summaries and correlation heatmap
 - Data cleaning: replaces biologically invalid zero values with column medians
 - Feature scaling using `StandardScaler`
