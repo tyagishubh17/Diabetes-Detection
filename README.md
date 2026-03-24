@@ -50,7 +50,7 @@ diabetes-detection/
 ├── requirements.txt        # Python dependencies
 ├── heatmap.png             # Correlation heatmap (generated)
 ├── confusion_matrices.png  # Confusion matrices for all models (generated)
-└── README.md
+└── README.md               # Provides over-view of the model
 ```
 
 ---
