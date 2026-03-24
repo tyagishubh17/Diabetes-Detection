@@ -59,7 +59,7 @@ diabetes-detection/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/tyagishubh17/Diabetes-Detection.git
+git clone git@github.com:tyagishubh17/Diabetes-Detection.git  #Using SSH
 cd diabetes-detection
 ```
 
